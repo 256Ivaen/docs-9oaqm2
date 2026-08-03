@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jvooit.ajaib887vnbh.space/sitemap.xml
